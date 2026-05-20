@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MoodTracker.Models;
 
-namespace MoodTracker.AppDbContext
+namespace MoodTracker.Context
 {
     public class AppDbContext : DbContext
     {
